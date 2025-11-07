@@ -1,5 +1,447 @@
 [
   {
+    "id": "fmsr2_CH5",
+    "question": "The constitution under which Article asks its citizens to respect the \"National Song\"?",
+    "options": [
+      "Article 51A",
+      "Article 50",
+      "Article 51",
+      "None of these"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The correct answer is None of these.\n\nArticle 51A of the Constitution of India lists the Fundamental Duties, and specifically clause 51A(a) mentions the duty \"to abide by the Constitution and respect its ideals and institutions, the National Flag and the National Anthem\". \nThe National Song (Vande Mataram) is not mentioned in Article 51A, or indeed anywhere in the Constitution. \nThe Supreme Court has also clarified this point in various rulings, stating that there is no constitutional provision or a fundamental duty to respect the \"National Song\" as there is for the National Anthem. \nTherefore, the correct answer is None of these.\n((Q6DsccCS4))",
+    "level": "",
+    "tags": [
+      "verified",
+      "polity",
+      "constitution",
+      "article",
+      "article",
+      "full gs mock test 1"
+    ],
+    "linked_block_uid": "Q6DsccCS4",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-07",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "Full GS Mock Test 1"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "3ofPVPWxO",
+    "question": "In which session of Indian National Congress (INC) the \"Vande Mataram\", the national song of India, was sung for the first time?",
+    "options": [
+      "INC Session 1896",
+      "INC Session 1907",
+      "INC Session 1911",
+      "INC Session 1916"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The national song of India, \"Vande Mataram\", was sung for the first time in a session of the Indian National Congress at the INC Session 1896 in Calcutta. The song was sung by Rabindranath Tagore, and the session was presided over by Rahimtulla M. Sayani. \n((TW82ihKQ6))",
+    "level": "",
+    "tags": [
+      "verified",
+      "history",
+      "inc sessions",
+      "freedom movement",
+      "inc sessions",
+      "full gs mock test 1"
+    ],
+    "linked_block_uid": "TW82ihKQ6",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-07",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "Full GS Mock Test 1"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "294nVFi7e",
+    "question": "Which of the below is the correct chronology of Gupta dynasty rulers?",
+    "options": [
+      "Chandragupta-I > Chandragupta-II > Samudragupta > Kumaragupta-I",
+      "Chandragupta-I > Samudragupta > Chandragupta-II > Kumaragupta-I",
+      "Samudragupta > Chandragupta-I > Chandragupta-II >  Kumaragupta-I",
+      "Chandragupta-I > Samudragupta  > Kumaragupta-I > Chandragupta-II"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The correct chronological order of the Gupta dynasty rulers mentioned is:\nChandragupta-I > Samudragupta > Chandragupta-II > Kumaragupta-I \n\n\nChandragupta-I was the first great emperor of the dynasty, often considered the founder of the Gupta Empire era, which began in 320 AD.\nSamudragupta was the son and successor of Chandragupta I. He is known for his extensive military conquests.\nChandragupta-II (also known as Vikramaditya) was the son of Samudragupta and succeeded him to the throne. His reign is considered the zenith or \"golden age\" of the Gupta Empire.\nKumaragupta-I was the son of Chandragupta II and is credited with founding the famous Nalanda University.\n((6r1BWHa5S))",
+    "level": "",
+    "tags": [
+      "verified",
+      "history",
+      "chronology",
+      "gupta dynasty",
+      "gupta dynasty",
+      "full gs mock test 1"
+    ],
+    "linked_block_uid": "6r1BWHa5S",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-07",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "Full GS Mock Test 1"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "Nq8n7NgIW",
+    "question": "Which of the below is the only World Heritage Site from Indus Valley Civilization?",
+    "options": [
+      "Harappa",
+      "Mohenjodaro",
+      "Lothal",
+      "Dholavira"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Dholavira was officially designated as a UNESCO World Heritage Site in 2021. It is the first and, as of the available information, the only site from the Indus Valley Civilization in India to receive this status.\n((GHAgKYC8N))",
+    "level": "",
+    "tags": [
+      "verified",
+      "history",
+      "harappan civilization",
+      "harappan civilization",
+      "full gs mock test 1"
+    ],
+    "linked_block_uid": "GHAgKYC8N",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-07",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "Full GS Mock Test 1"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "VvDAWzBDK",
+    "question": "How many states in India are passed through by both the Tropic of Cancer and the \"Indian Standard Time meridian\" (82°30′ E longitude)?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "None"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Three Indian states are passed through by both the Tropic of Cancer and the Indian Standard Time meridian: Madhya Pradesh, Chhattisgarh, and Odisha. \nThe Tropic of Cancer passes through a total of eight states, while the Standard Meridian passes through five, with these three states being the only ones common to both lists.\n((JxgVCdaxU))",
+    "level": "",
+    "tags": [
+      "verified",
+      "geography",
+      "latitudes and longitudes",
+      "geography",
+      "latitudes and longitudes",
+      "full gs mock test 1"
+    ],
+    "linked_block_uid": "JxgVCdaxU",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-07",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "Full GS Mock Test 1"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "HGl1vUJ5u",
+    "question": "Which of the below is NOT correct?",
+    "options": [
+      "Water day: March 22",
+      "Earth day: April 22",
+      "Biodiversity day: May 22",
+      "Yoga day: June 22"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The incorrect statement is: Yoga day: June 22 \n\nThe correct date for the ^^International Day of Yoga is June 21^^. \nThe date was chosen because it is the longest day of the year in the Northern Hemisphere and holds special significance in many parts of the world. \n\n\n^^Water day: March 22^^ is the correct date for World Water Day, as designated by the United Nations in 1993.\n^^Earth day: April 22^^ is the correct date for Earth Day, first celebrated in 1970 and now a major global event.\n^^Biodiversity day: May 22^^ is the correct date for the International Day for Biological Diversity, commemorating the adoption of the text of the Convention on Biological Diversity on that date in 1992. \n((sdtDIGkrS))",
+    "level": "",
+    "tags": [
+      "verified",
+      "day",
+      "full gs mock test 1"
+    ],
+    "linked_block_uid": "sdtDIGkrS",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-07",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "Full GS Mock Test 1"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "mKneOxa72",
+    "question": "Which of the below is NOT correct regarding borrowed features of Indian Constitution?",
+    "options": [
+      "DPSP : Ireland Constitution",
+      "Fundamental Duties: USSR Constitution",
+      "Idea of Republic: UK Constitution",
+      "Judicial Review: USA Constitution"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The statement which is NOT correct is: Idea of Republic: UK Constitution \nIdea of Republic was borrowed from ^^France Constitution^^\nRest all other options are correct. \n\n((1mUbGPm6U))",
+    "level": "",
+    "tags": [
+      "verified",
+      "polity",
+      "constitution",
+      "full gs mock test 1"
+    ],
+    "linked_block_uid": "1mUbGPm6U",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-07",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "Full GS Mock Test 1"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "IXLAtPQ3S",
+    "question": "Which of the below statement is NOT correct regarding Five Years Plans in India?",
+    "options": [
+      "First FYP : Main focus on Agriculture",
+      "Second FYP: Main focus on Industrialisation",
+      "Third FYP: Main focus on agriculture social justice  and poverty alleviation",
+      "Fourth FYP: Main focus was on LPG reforms"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The incorrect statement regarding the Five Year Plans in India is: \n\"Fourth FYP: Main focus was on LPG reforms\".\n\nThe \"LPG Reforms\" was the main focus in the Eight FYP. \n\n((kkxvS7M2N))",
+    "level": "",
+    "tags": [
+      "verified",
+      "economy",
+      "five year plans",
+      "economy",
+      "five year plans",
+      "full gs mock test 1"
+    ],
+    "linked_block_uid": "kkxvS7M2N",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-07",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "Full GS Mock Test 1"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "O9vgOdXAI",
+    "question": "Which of the following statements about the festival of Navroz (Nowruz) is NOT correct?",
+    "options": [
+      "March 21st is the International Day of Nowruz.",
+      "The first day of the Persian New Year is Nowruz",
+      "Navroz is celeberated in Ladkah, especially by Shia Muslims",
+      "The festival was introduced in the court of the Delhi Sultanate by Iltutmish"
+    ],
+    "correct_option_index": 3,
+    "explanation": "4th statement is incorrect:\nThe Persian festival of Nowruz was introduced in the Delhi Sultanate by ^^Sultan Ghiyas ud din Balban^^, not by Iltutmish.\n\nThe first day of the Persian New Year is Nowruz, a festival that marks the beginning of spring and is celebrated on the vernal equinox, typically around March 20 or 21. \n\nNavroz is celebrated in Ladakh, and it is a significant festival especially for the local Shia Muslim community.",
+    "level": "",
+    "tags": [
+      "verified",
+      "full gs mock test 1"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-07",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "Full GS Mock Test 1"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "iCAjyPZiY",
+    "question": "Which of the below statement is correct regarding classical dances and the state?",
+    "options": [
+      "Mohiniyattam – Uttar Pradesh",
+      "Sattriya – Andhra Pradesh",
+      "Bharatanatyam – Tamil Nadu",
+      "Kathakali – Assam"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The correct statement is:\n^^Bharatanatyam – Tamil Nadu^^\n((6hAXY0gv6))",
+    "level": "",
+    "tags": [
+      "verified",
+      "dances",
+      "art and culture",
+      "art and culture",
+      "full gs mock test 1"
+    ],
+    "linked_block_uid": "6hAXY0gv6",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-07",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "Full GS Mock Test 1"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "k51HBqHIb",
+    "question": "Which of the below is NOT correct regarding the schedules of the constitution?",
+    "options": [
+      "There are total 12 Schedules in the constitution",
+      "Eight Schedule deals with Official Languages",
+      "The Ninth schedule was added by 5th Amendment",
+      "The Eleventh schedule deals with Panchayats"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The statement 3 is wrong:\nThe Ninth Schedule was added via ^^1st Amendment^^, and not via 5th Amendment\n((scg4vlWh4))",
+    "level": "",
+    "tags": [
+      "verified",
+      "polity",
+      "constitution",
+      "schedules of constitution",
+      "schedules of constitution",
+      "full gs mock test 1"
+    ],
+    "linked_block_uid": "scg4vlWh4",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-07",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "Full GS Mock Test 1"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "iZbFOuI2N",
+    "question": "Which of the below battle-year pair is NOT correct ?",
+    "options": [
+      "Battle of Buxar -- 1764",
+      "Battle of Plassey -- 1757",
+      "Battle of Haldigathi -- 1556",
+      "Battle of Tarain-I -- 1191"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The Incorrect statement is 3rd:\n^^Battle of Haldigathi took place in 1576^^, and not in 1556. \n\nBattle of Buxar (1764)\t\nForces of the British East India Company vs. the combined army of Mir Qasim (Nawab of Bengal), Shuja-ud-Daulah (Nawab of Awadh), and the Mughal Emperor Shah Alam II.\n\nBattle of Plassey(1757)\t\nBritish East India Company (led by Robert Clive) vs. the Nawab of Bengal (Siraj-ud-Daulah).\n\nBattle of Haldigathi (1576)\t\nForces of the Mughal Emperor Akbar (led by Man Singh I) vs. Maharana Pratap of Mewar.\n\nFirst Battle of Tarain (1191)\t\nPrithviraj Chauhan vs. Muhammad of Ghor, where Prthviraj Chauhan defaeted Ghori",
+    "level": "",
+    "tags": [
+      "verified",
+      "history",
+      "battle",
+      "full gs mock test 1"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-07",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "Full GS Mock Test 1"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "1cfE0RP4p",
+    "question": "With regards to the governor generals in British India, which of the below statement is NOT correct ?",
+    "options": [
+      "Lord Dalhouse -- Doctrine of Lapse",
+      "Lord Welleslay -- Subsidiary Allaince",
+      "Lord William Bentinck -- Abolition of the practise Sati",
+      "Lord Warren Hasting  -- First governor general of India"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The statement that is NOT correct is:\nLord Warren Hasting -- First governor general of India\nLord Warren Hastings was the ^^First Governor-General of Bengal^^, a position created by the Regulating Act of 1773.\n\nHere is the status of all other statements:\n\n**Lord Dalhousie -- Doctrine of Lapse:** is CORRECT. \nLord Dalhousie (1848–1856) is famous for introducing and vigorously implementing the Doctrine of Lapse, an annexation policy.\n\n**Lord Welleslay -- Subsidiary Allaince:** is CORRECT. \nLord Wellesley (1798–1805) introduced the Subsidiary Alliance system, which was a major instrument of British territorial expansion in India.\n\n**Lord William Bentinck -- Abolition of the practise Sati** is CORRECT. \nLord William Bentinck (1828–1835) is well-known for abolishing the practice of Sati (widow immolation) in 1829.\n-----\n((gr0QlasuV))\n((PTqwg0UCk))\n((kmqXA8GXg))\n\n((wxRvxOBSC))",
+    "level": "",
+    "tags": [
+      "testmcq",
+      "verified",
+      "history",
+      "governor generals",
+      "governor generals",
+      "full gs mock test 1"
+    ],
+    "linked_block_uid": "gr0QlasuV",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-11-07",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "Full GS Mock Test 1"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
     "id": "mTTCqIiur",
     "question": "What is the capital of UT Ladakh?",
     "options": [
